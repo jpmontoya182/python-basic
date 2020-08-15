@@ -14,4 +14,16 @@ nombre.replace('u', 'a')
 nombre[0]
 # charater number
 len(nombre)
+# -------------------------------
+# slice : juan p -> jua
+nombre[0:2]
+nombre[:2]
+# slice : juan p -> an p
+nombre[2:]
+# slice : juan p -> un
+nombre[1:5:2]
+# reverse juan p -> p nauj
+nombre[::-1]
+# -------------------------------
+
 
